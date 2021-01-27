@@ -115,7 +115,6 @@ class Dijkstra {
 
 //    nextOffset = new Offset(offset.dx - factor, offset.dy - factor);
 //    doForOffset(offset, nextOffset, checked, pointMap, weight, points, factor);
-
     nextOffset = new Offset(offset.dx + factor, offset.dy);
     doForOffset(offset, nextOffset, checked, pointMap, weight, points, factor,
         height, width, parent, weightMap);
