@@ -1,6 +1,6 @@
 # flutterpathfinder
 
-A Path Finder Visualizer
+A Path Finder Visualizer. Live - https://path-finder-visualizer.web.app/#/
 
 ## Getting Started
 
